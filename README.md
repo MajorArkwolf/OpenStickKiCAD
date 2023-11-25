@@ -23,7 +23,7 @@ Please note, some parts have not been tested in production and may have toleranc
 | LED_SK6812_EC20_2.0x2.0mm.kicad_mod | [C2909058] | LED/SK6812 | :x: |
 | DPDT_switch_C2681581.kicad_mod | [C2681581] | OpenStick/DPDT | :x: |
 | SPDT_switch_C393937.kicad_mod | [C393937] | OpenStick/SPDT | :x: |
-| usb-cutout.kicad_mod | [C42614] or [C2689981] | Connector/USB_A | :x: |
+| usb_a_cutout.kicad_mod | [C42614] or [C2689981] | Connector/USB_A | :x: |
 
 ## License
 See [License](LICENSE.md) for licensing
